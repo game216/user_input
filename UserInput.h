@@ -5,7 +5,6 @@
 #include <ctype.h>
 #include <cstring>
 #include <iostream>
-//#include <regex>
 #include <sstream>
 #include <stdio.h>      /* printf, NULL */
 #include <stdlib.h>     /* strtof */
